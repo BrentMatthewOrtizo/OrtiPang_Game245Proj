@@ -1,0 +1,29 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Plugin generated folders
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
